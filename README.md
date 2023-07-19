@@ -85,7 +85,19 @@ Steve Jobs
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 -->
 
-<!--  -->
+<!--  
+### GitHub Profile Trophy 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KseGreb)](https://github.com/KseGreb/github-profile-trophy)
+-->
+### Longest streak stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KseGreb)](https://git.io/streak-stats)
+
+### Languages used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseGreb&layout=compact)](https://github.com/KseGreb/github-readme-stats)
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseGreb)](https://github.com/KseGreb/github-readme-stats)
+-->
 
 ## Contact or follow me:
 
