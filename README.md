@@ -85,10 +85,12 @@ Steve Jobs
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 -->
 
-<!--  
+<!-- 
 ### GitHub Profile Trophy 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KseGreb)](https://github.com/KseGreb/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KseGreb)](https://github.com/KseGreb/github-profile-trophy) 
 -->
+
+
 ### Longest streak stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KseGreb)](https://git.io/streak-stats)
 
