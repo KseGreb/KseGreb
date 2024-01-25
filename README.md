@@ -97,7 +97,8 @@ Steve Jobs
 ### Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KseGreb&layout=compact)](https://github.com/KseGreb/github-readme-stats)
 
-<!--
+
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KseGreb)](https://github.com/KseGreb/github-readme-stats)
 -->
 
