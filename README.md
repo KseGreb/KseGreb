@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1> Hi there, I'm Ksenia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Web developer and fine artist from Calgary, Cananda </h3>
+<h3>Web developer and fine artist from Calgary, Canada </h3>
 
 - 😄 I am motivated and creative FRONT-END DEVELOPER.
 - 🌱 I'm currently enrolled into React, Redux, Node bootcamp and soon will be a FULL STACK DEVELOPER.
